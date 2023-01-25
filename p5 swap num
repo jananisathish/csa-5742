@@ -1,0 +1,8 @@
+#!bin\bash 
+first=5
+second=10
+temp=$first
+first=$scond
+second=$temp
+echo "After swapping,nmber are:"
+echo "first = $first,second =$second"
